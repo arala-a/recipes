@@ -1,0 +1,71 @@
+body{
+    background-color: #ffffff;
+    font-family: "SF Pro Display";
+    font-style: normal;
+    font-weight: 700;
+}
+
+#h{
+    position:absolute;
+    width:172px;
+    height:36px;
+    left: 18px;
+    top: 25px;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+#h{
+    text-decoration: none;
+    color: black;
+}
+
+#h:active{
+    color: blue;
+}
+
+#waves{
+    width: 620.5px;
+    height: 582.5px;
+    margin-left: 1300px;
+    margin-top: -15px;
+    right: 10px;
+}
+
+#home{
+    position: absolute;
+    width: 55px;
+    height: 24px;
+    left: 1154px;
+    top: 32px;
+    font-size: 20px;
+    line-height: 24px;
+    
+}
+
+#recipes{
+    position: absolute;
+    width: 73px;
+    height: 24px;
+    left: 1286px;
+    top: 32px;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+#pic1{
+    position: absolute;
+    width: 520px;
+    height: 218.92px;
+    left: 277px;
+    top: 221px;
+}
+
+#pic2{
+    position: absolute;
+    width: 419px;
+    height: 219px;
+    transform: rotate(-90deg);
+    left: 720px;
+    top: 310px;
+}
